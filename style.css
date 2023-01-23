@@ -1,0 +1,24 @@
+
+.container > img {
+  width: 150px;
+  border-radius: 50%;
+  padding: 20px;
+}
+.card-body>img{
+    padding-left: 10px;
+}
+
+
+.card {
+  border-radius: 30px;
+  margin-bottom: 10px;
+  background-color: #f8f9fa;
+  
+}
+.card:hover{
+    background-color: #e9ecef;
+}
+.card > a {
+  text-decoration: none;
+  color: black;
+}
